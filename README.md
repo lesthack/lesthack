@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/e5f9e74e-d166-45a8-b367-3b98ef4b52a1.svg)](https://wakatime.com/@e5f9e74e-d166-45a8-b367-3b98ef4b52a1)
+[![twitter](https://img.shields.io/twitter/follow/lesthack?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/lesthack)
+[![github](https://img.shields.io/github/followers/lesthack?logo=github&style=plastic)](https://github.com/lesthack?tab=followers)
+
 <!--
 **lesthack/lesthack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
